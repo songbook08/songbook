@@ -1,0 +1,458 @@
+[
+  {
+  "title": "Thanu",
+    "actor": "nani",
+  "singer": "Anirudh Ravichander, Raghav and Mickey J",
+  "music": "Anirudh Ravichander",
+  "movie": "hit 3",
+  "link": "../telugu/Thanuhit3.html",
+  "year": "2025",
+  "language": "Telugu",
+  "category": "Love",
+  "cover": "../pic/thanuhit3.jpg"
+},
+
+  {
+  "title": "Poyi Ra Mama",
+    "actor": "dhanush",
+  "singer": "dhanush",
+  "music": "DSP",
+  "movie": "kubera",
+  "link": "../telugu/poyiramama.html",
+  "year": "2025",
+  "language": "Telugu",
+  "category": "Mass",
+  "cover": "../pic/poyiramama.webp"
+},
+
+  {
+  "title": "Ullaasam",
+    "actor": "nani",
+  "singer": "Krishna Lasya Muthyala, Sanjith Hegde",
+  "music": "Jakes Bejoy",
+  "movie": "saripodhaa sanivaaram",
+  "link": "../telugu/ullaasam.html",
+  "year": "2024",
+  "language": "Telugu",
+  "category": "Love",
+  "cover": "../pic/ullaasam.webp"
+},
+
+  {
+  "title": "Anuvanuvu",
+    "actor": "sree vishnu",
+  "singer": "arjith singh",
+  "music": "sunny m. r.",
+  "movie": "om bheem bush",
+  "link": "../telugu/anuvanuvu.html",
+  "year": "2024",
+  "language": "Telugu",
+  "category": "Love",
+  "cover": "../pic/anuvanuvu.webp"
+  },
+
+    {
+  "title": "Ammayi",
+  "actor": "ranbir kapoor",
+  "singer": "raghav chaitnya, pritam, jam8",
+  "music": "pritam",
+  "movie": "Animal",
+  "link": "../telugu/ammayi.html",
+  "year": "2024",
+  "language": "Telugu",
+  "category": "Love",
+  "cover": "../pic/ammayi.webp"
+},
+
+  
+  {
+     "title": "Nijame Ne",
+     "actor": "sandeep kishan",
+     "singer": "sid sriram",
+     "music": "shekhar chandra",
+    "movie": "ooru peru bhairavakona",
+    "link": "../telugu/nijamene.html",
+    "year": "2024",
+    "language": "Telugu",
+    "category": "Love",
+    "cover": "../pic/nijamene.webp"
+},
+
+  {
+  "title": "Raanjhan",
+  "singer": "Sachet Parampara, Parampara Tandon",
+  "music": "Sachet Parampara",
+  "movie": "Do Patti",
+  "link": "../hindi/raanjhan.html",
+  "year": "2025",
+  "language": "Hindi",
+  "category": "love",
+  "cover": "../pic/raanjhan.jpg"
+},
+
+  {
+  "title": "Akhiyaan Gulab",
+  "singer": "Mitraj",
+  "music": "Mitraj",
+  "movie": "Teri Baaton Mein Aisa Uljha Jiya",
+  "link": "../hindi/akhiyaan.html",
+  "year": "2024",
+  "language": "Hindi",
+  "category": "love",
+  "cover": "../pic/akhiyaan.jpg"
+  },
+  
+{
+  "title": "Butta Bomma",
+  "actor": "allu arjun",
+  "singer": "Armaan Malik",
+  "music": "Thaman S",
+  "movie": "Ala Vaikunthapurramuloo",
+  "link": "../telugu/buttabomma.html",
+  "year": "2020",
+  "language": "Telugu",
+  "genre": "Love",
+  "cover": "../pic/buttabomma.jpg"
+},
+
+    {
+  "title": "Asura Hananam",
+      "actor": "pawan kalyan",
+  "singer": "M. M. Keeravaani",
+  "music": "M. M. Keeravaani",
+  "movie": "Hari Hara Veera Mallu",
+  "link": "../telugu/asurahananam.html",
+  "year": "2025",
+  "language": "Telugu",
+  "category": "Devotional",
+  "cover": "../pic/asurahananam.jpg"
+    },
+
+  {
+  "title": "Gaali Vaaluga",
+  "actor": "pawan kalyan",
+  "singer": "Anirudh Ravichander",
+  "music": "Anirudh Ravichander",
+  "movie": "Agnyaathavaasi",
+  "link": "../telugu/galivaluga.html",
+  "year": "2027",
+  "language": "Telugu",
+  "category": "Love",
+  "cover": "../pic/galivaluga.webp"
+    },
+  
+
+  {
+  "title": "Samajavaragamana",
+  "singer": "Sid Sriram",
+    "actor": "allu arjun",
+  "music": "Thaman S",
+  "movie": "Ala Vaikunthapurramuloo",
+  "link": "../telugu/samajavaragamana.html",
+  "year": "2020",
+  "language": "Telugu",
+  "category": "Love",
+  "cover": "../pic/Samajavaragamana.jpg"
+},
+
+  {
+  "title": "Hridayam Lopala",
+    "actor": "vijay devarakonda",
+  "singer": "Anirudh Ravichander, Anumita Nadesan",
+  "music": "Anirudh Ravichander",
+  "movie": "Kingdom",
+  "link": "../telugu/hridayamlopala.html",
+  "year": "2025",
+  "language": "Telugu",
+  "category": "Love",
+  "cover": "../pic/hridayamlopala.jpg"
+},
+
+  {
+  "title": "Peelings",
+  "actor": "Allu Arjun",
+  "singer": "Shankarr Babu Kandukoori, Laxmi Dasa",
+  "music": "DSP",
+  "movie": "Pushpa The Rule",
+  "link": "../telugu/peelings.html",
+  "year": "2025",
+  "language": "Telugu",
+  "category": "love",
+  "cover": "../pic/peelings.webp"
+  },
+
+  
+  {
+  "title": "Nee Jathaga Nenudali",
+  "actor": "Ram Charan",
+  "singer": "karthik, Shreya Ghoshal",
+  "music": "DSP",
+  "movie": "yevadu",
+  "link": "../telugu/neejathaga.html",
+  "year": "2013",
+  "language": "Telugu",
+  "category": "love",
+  "cover": "../pic/neejathaga.webp"
+  },
+
+
+
+
+  {
+  "title": "Hey Rangule",
+  "actor": "Sivakarthikeyan",
+  "singer": "Ramya Behara, Ramajogayya Sastry, GV Prakash ",
+  "music": "GV Prakash",
+  "movie": "Amaran",
+  "link": "../telugu/heyrangule.html",
+  "year": "2024",
+  "language": "Telugu",
+  "category": "love",
+  "cover": "../pic/heyrangule.webp"
+  },
+
+  {
+  "title": "Bujji Thalli",
+  "actor": "naga chaitanya",
+  "singer": "javed Ali",
+  "music": "DSP",
+  "movie": "Thandel",
+  "link": "../telugu/bujjithalli.html",
+  "year": "2025",
+  "language": "Telugu",
+  "category": "lov",
+  "cover": "../pic/bujjithalli.webp"
+  },
+
+  
+  {
+    "title": "party 4 u",
+    "movie": "charlie xcx",
+    "category": "Pop",
+    "year": "2020",
+    "language": "English",
+    "link": "../english/party4u.html",
+    "cover": "../pic/party4u.jpg"
+  },
+  
+
+  {
+  "title": "Colorful chilaka",
+  "singer": "Narendra",
+  "music": "Thaman s",
+  "movie": "Express Raja",
+  "link": "../telugu/colorfulchilaka.html",
+  "year": "2016",
+  "language": "Telugu",
+  "genre": "Mass",
+   "actor": "sharwanand",
+  "cover": "../Pic/colorfulchilaka.jpg"
+  },
+
+  {
+  "title": "Chuttamalle",
+  "singer": "Anirudh Ravichander",
+  "music": "Anirudh Ravichander",
+  "movie": "Devara Part 1",
+  "link": "../telugu/chuttamalle.html",
+  "year": "2024",
+  "language": "Telugu",
+  "category": "Love",
+  "actor": "ntr",
+  "cover": "../pic/chuttamalle.jpg"
+},
+
+  {
+  "title": "Premalo",
+  "singer": "Anurag kulakarni",
+  "music": "Vijai Bulganin",
+  "movie": "Court",
+  "link": "../telugu/premalo.html",
+  "year": "2025",
+  "language": "Telugu",
+  "category": "Love",
+  "actor": "Priyadarshi,Sridevi, Harsh Roshan",
+  "cover": "../pic/premalo.webp"
+},
+
+  {
+    "title": "Ordinary",
+    "singer": "Alex Warren",
+    "language": "English",
+    "category": "Pop",
+    "link": "../english/ordinary.html",
+    "cover": "../pic/ordinaryalex.jpg"
+  },
+
+  {
+    "title": "Bad Dreams",
+    "singer": "Teddy Swims",
+    "category": "Pop",
+    "language": "English",
+    "year": "2025",
+    "link": "../english/baddreams.html",
+    "cover": "../pic/baddreams.jpg"
+  },
+  
+  {
+    "title": "cry for me",
+    "singer": "The Weeknd",
+    "category": "Pop",
+    "language": "English",
+    "year": "2025",
+    "link": "../english/cry4me.html",
+    "cover": "../pic/cry4me.jpg"
+  },
+
+  {
+    "title": "Die with a Smile",
+    "singer": "Lady Gaga, Bruno Mars",
+    "category": "Pop",
+    "language": "English",
+    "year": "2025",
+    "link": "../english/diewithasmile.html",
+    "cover": "../pic/die1.jpg"
+  },
+
+  {
+    "title": "Ur So F**king Cool",
+    "singer": "tones and i",
+    "language": "English",
+    "category": "Pop",
+    "year": "2025",
+    "link": "../english/ursofucking.html",
+    "cover": "../pic/ursofucking.webp"
+  },
+  
+  {
+    "title": "Bloody Mary",
+    "singer": "Lady Gaga",
+    "language": "English",
+    "category": "Pop",
+    "year": "2011",
+    "link": "../english/blodymary.html",
+    "cover": "../pic/blodymary.jpg"
+  },
+
+  
+  {
+    "title": "LoveDrug",
+    "singer": "Lady Gaga",
+    "language": "English",
+    "category": "Pop",
+    "year": "2025",
+    "link": "../english/lovedrug.html",
+    "cover": "../pic/lovedrug.webp"
+  },
+
+  {
+    "title": "Let Her Go",
+    "singer": "passenger",
+    "language": "English",
+    "category": "FLOK",
+    "year": "2012",
+    "link": "../english/lethergo.html",
+    "cover": "../pic/lethergo.webp"
+  },
+
+  {
+    "title": "Blinding Lights",
+    "singer": "the weeknd",
+    "language": "English",
+    "category": "FLOK",
+    "year": "2019",
+    "link": "../english/blindinglights.html",
+    "cover": "../pic/blindinglights.webp"
+  },
+  
+
+  {
+    "name": "Charli XCX",
+    "role": "Singer",
+    "url": "../artists/charlixcx.html"
+  },
+
+  {
+    "name": "Lady Gaga",
+    "role": "Singer",
+    "language": "English",
+    "link": "../artists/ladygaga.html"
+   },
+  
+  {
+  "name": "Allu Arjun",
+  "role": "Actor",
+  "url": "../artists/alluarjun.html"
+  },
+
+   {
+    "name": "Nani",
+    "role": "Actor",
+    "url": "../artists/nani.html"
+  },
+
+  {
+  "name": "DSP",
+  "role": "Singer",
+  "url": "../artists/DSP.html"
+  },
+
+  {
+  "name": "ilaiyaraja",
+  "role": "Singer",
+  "url": "../artists/ilaiyaraja.html"
+  },
+
+  {
+  "title": "Nalone Pongenu Narmada",
+  "actor": "surya",
+  "singer": "Harish Raghavendra",
+  "music": "Harris Jayaraj",
+  "movie": "Surya S/o Krishnan",
+  "link": "../telugu/nalone.html",
+  "year": "2008",
+  "language": "Telugu",
+  "category": "20s",
+  "cover": "../pic/nalone.jpg"
+},
+
+  {
+  "title": "Mellaga Karagani",
+  "actor": "Prabhas",
+  "singer": "S. P. Charan",
+  "music": "DSP",
+  "movie": "Varsham",
+  "link": "../telugu/mellaga.html",
+  "year": "2003",
+  "language": "Telugu",
+  "category": "20s",
+  "cover": "../pic/mellaga.jpg"
+  },
+
+  {
+  "title": "Hoyna Hoyna",
+    "actor": "nani",
+  "singer": "Anirudh Ravichander",
+  "music": "Anirudh Ravichander",
+  "movie": "gang leader",
+  "link": "../telugu/hoynahoyna.html",
+  "year": "2019",
+  "language": "Telugu",
+  "category": "Love",
+  "cover": "../pic/hoynahoyna.webp"
+},
+
+  {
+  "title": "Prema Entha",
+  "actor": "karthik",
+  "singer": "spb",
+  "music": "ilaiyaraja",
+  "movie": "Abhinandana",
+  "link": "../telugu/premaenthakatinam.html",
+  "year": "1987",
+  "language": "Telugu",
+  "category": "90s",
+  "cover": "../pic/premaentha.webp"
+  }
+  
+]
